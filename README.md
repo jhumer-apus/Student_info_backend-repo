@@ -10,8 +10,11 @@ This is what the table of a database:
 # The structure of data is:
 
 {
+
 id:int,
+
 student_data:object
+
 }
 
 # To begin
